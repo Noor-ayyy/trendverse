@@ -1,0 +1,5 @@
+outs:
+- md5: 7b7321675e295a3812b8d610f512a8f8
+  size: 1433208
+  hash: md5
+  path: cleaned_viral_trends.csv
