@@ -1,0 +1,5 @@
+outs:
+- md5: cc4efe4fbb9391cfa4521359de91358e
+  size: 4826052
+  hash: md5
+  path: cleaned_insta_trends.csv
